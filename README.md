@@ -5,10 +5,10 @@
     readme_edit_2
     Edition of branch 2
 
-    Here this file edited locally
-    
     another edition
     
     edited in local branch 3
 
     edited in github branch 4
+
+    edited locally in master
